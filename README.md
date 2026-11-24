@@ -1,28 +1,15 @@
+
 # Hi, I'm Andreas Kærgård Ravn
 
 **Software Developer | Backend Development | Software Quality & Test Automation**
 
 I'm a software developer from Denmark with a professional background in backend development and a growing passion for software quality, verification and automated testing.
 
-While C# and .NET are where I feel most at home, I also enjoy working across the full application stack. I believe understanding how an application works from its database to its user interface makes me both a better developer and a better tester.
+While C# and .NET are where I feel most at home, I also enjoy working across the full application stack. I believe understanding how an application works, from its database to its user interface, makes me both a better developer and a better tester.
 
 I'm particularly interested in the relationship between software development and testing — not just building applications, but understanding how to make them more reliable, maintainable and efficient.
 
 ---
-
-## My Development Philosophy
-
-I believe good software is more than software that simply works. It should be understandable, maintainable, testable and capable of evolving alongside its requirements.
-
-My approach to development revolves around five principles:
-
-- **Readability** — Code should be understandable to the next developer who works with it.
-- **Maintainability** — A well-structured application should make future changes easier, not harder.
-- **Performance** — There should always be room for optimization and improvement.
-- **Reliability** — Testing should cover expected behaviour, unexpected scenarios and meaningful edge cases.
-- **Scalability** — Both application architecture and its accompanying tests should be able to grow without requiring unnecessary restructuring.
-
-I don't believe software can ever be completely flawless. Requirements change, dependencies evolve and unexpected scenarios emerge. However, I believe thoughtful architecture, comprehensive testing and continuous improvement can significantly reduce those risks.
 
 ## Technical Skills
 
@@ -50,13 +37,35 @@ I don't believe software can ever be completely flawless. Requirements change, d
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=flat-square&logo=rider&logoColor=white)
 
-My primary development environment is C# and .NET, with NUnit as my preferred testing framework. I particularly enjoy working with MVC architecture, keeping controllers, services, models, views and data access responsibilities clearly separated.
-
-Although I have my preferred technologies, I don't believe a developer should be defined by a single programming language or framework. Understanding programming fundamentals makes it easier to adapt, while genuine expertise comes from experience, practice and continuous learning.
+My primary development environment is C# and .NET, with NUnit as my preferred testing framework. I'm currently expanding my experience with Playwright and xUnit.
 
 ---
 
-## My Interest in Software Testing
+<details>
+<summary><h2>My Development Philosophy</h2></summary>
+
+I believe good software is more than software that simply works. It should be understandable, maintainable, testable and capable of evolving alongside its requirements.
+
+My approach to development revolves around five principles:
+
+- **Readability** — Code should be understandable to the next developer who works with it.
+- **Maintainability** — A well-structured application should make future changes easier, not harder.
+- **Performance** — There should always be room for optimization and improvement.
+- **Reliability** — Testing should cover expected behaviour, failure scenarios and meaningful edge cases.
+- **Scalability** — Both application architecture and its accompanying tests should be able to grow without requiring unnecessary restructuring.
+
+I don't believe software can ever be completely flawless. Requirements change, dependencies evolve and unexpected scenarios emerge. However, thoughtful architecture, comprehensive testing and continuous improvement can significantly reduce those risks.
+
+I particularly enjoy working with MVC architecture, keeping controllers, services, models, views and data access responsibilities clearly separated.
+
+Although I have my preferred technologies, I don't believe a developer should be defined by a single programming language or framework. Understanding programming fundamentals makes it easier to adapt, while genuine expertise comes from experience, practice and continuous learning.
+
+</details>
+
+---
+
+<details>
+<summary><h2>My Interest in Software Testing</h2></summary>
 
 One of the most rewarding aspects of software development for me is understanding how an application behaves beyond its intended use.
 
@@ -78,24 +87,22 @@ My backend development experience provides a foundation for understanding what h
 
 I'm not moving away from backend development. Instead, I'm working towards combining my development experience with deeper expertise in software testing and quality assurance.
 
+</details>
+
 ---
 
 ## Featured Projects
 
 ### MomentumGroves — Web & Mobile
 
-MomentumGroves is my primary personal project and the one that best represents my current development interests, technical abilities and approach to building software.
+MomentumGroves consists of my two flagship repositories and represents my current development abilities, technical interests and approach to building software.
 
-It consists of two applications:
+Both applications are actively developed, maintained, tested and used by me.
 
-| Application | Technology |
-|---|---|
-| MomentumGroves Web | ASP.NET Core MVC, C#, JavaScript, Razor and CSS |
-| MomentumGroves Mobile | C# and .NET MAUI |
-| Data & Storage | SQLite, PostgreSQL and Supabase |
-| Automated Testing | NUnit and Playwright |
+<details>
+<summary><b>The Story Behind MomentumGroves</b></summary>
 
-#### Why I Built It
+### Why I Built It
 
 MomentumGroves started with a personal goal: improving my health, losing weight and developing sustainable habits.
 
@@ -103,7 +110,7 @@ I wanted an application that adapted to my everyday life rather than forcing me 
 
 Whenever I find myself wishing the application could do something differently, I have the freedom to implement it myself.
 
-#### What It Does
+### What It Does
 
 - Nutrition and daily food tracking.
 - Personal food libraries and recipe management.
@@ -114,31 +121,54 @@ Whenever I find myself wishing the application could do something differently, I
 - Optional cloud-based data storage.
 - Standalone operation without requiring cloud services.
 
-#### Why It Matters to Me
+### Technical Overview
 
-MomentumGroves is more than a portfolio project. It is an application I actively use, maintain and improve based on real everyday requirements.
+| Application | Technology |
+|---|---|
+| MomentumGroves Web | ASP.NET Core MVC, C#, JavaScript, Razor and CSS |
+| MomentumGroves Mobile | C# and .NET MAUI |
+| Data & Storage | SQLite, PostgreSQL and Supabase |
+| Automated Testing | NUnit and Playwright |
+
+### Why It Matters to Me
+
+MomentumGroves is more than a portfolio project. It is an application built around real everyday requirements.
 
 It gives me an environment where I can experiment with architecture, improve existing implementations, explore new technologies and develop automated tests against functionality I understand in depth.
 
 It also gives me the opportunity to experience the entire software development lifecycle — from identifying a requirement and implementing it to testing, maintaining and improving it over time.
 
-The web and mobile repositories are pinned on my profile.
+The project allows me to improve my own habits while continuously developing my technical abilities. That combination is what makes it particularly rewarding to work on.
+
+</details>
 
 ### Educational Projects & Earlier Work
 
 Alongside MomentumGroves, my GitHub contains projects, assignments and exercises from my education.
 
+<details>
+<summary><b>Why I Keep My Earlier Projects Public</b></summary>
+
 I intentionally keep selected older projects publicly available, even when they no longer reflect my current development standards.
 
 They represent where I started, what I was learning at the time and how my approach to software development has evolved.
 
-Rather than rewriting everything to match my current abilities, I prefer to preserve that progression. Looking back at older code is a useful reminder of how much there is to learn and how much can improve through experience.
+Rather than rewriting everything to match my current abilities, I prefer to preserve that progression.
+
+Looking back at older code is a useful reminder of how much there is to learn and how much can improve through experience.
+
+My GitHub is not exclusively a showcase of my best work. It is also a record of my development journey, from educational assignments to applications I actively develop and maintain today.
+
+</details>
 
 ---
 
-## Currently Learning
+<details>
+<summary><h2>Currently Learning & Future Ambitions</h2></summary>
 
 I believe there is always another approach, technique or tool that can improve the way I develop software.
+
+Even within languages I have worked with professionally, such as C#, there are always methods, patterns and approaches I haven't explored that could improve an existing implementation.
 
 My current areas of focus are:
 
@@ -147,31 +177,56 @@ My current areas of focus are:
 - Expanding my knowledge of xUnit and other testing approaches.
 - Deepening my expertise in C# and JavaScript.
 - Exploring deployment, CI/CD and application hosting.
-- Working towards future ISTQB certification.
 
 One of my long-term goals is to develop the ability to naturally identify testing requirements while designing and implementing functionality, rather than treating testing as something that happens afterwards.
 
+I want to become more proficient in testing applications at different levels, from individual services and business logic to complete user journeys through a browser.
+
+I also intend to pursue ISTQB certification and further testing-related qualifications when the opportunity arises.
+
+Professionally, I see myself continuing in a direction that combines software development with test automation and quality assurance.
+
+</details>
+
 ---
 
-## My Background
+<details>
+<summary><h2>My Background</h2></summary>
 
 I graduated with an Academy Profession Degree in Computer Science (Datamatiker) in Denmark.
 
 My education involved a considerable amount of independent learning, particularly during the COVID-19 period. That experience encouraged me to become more comfortable researching unfamiliar subjects, experimenting with solutions and taking responsibility for my own development.
 
-My professional IT career began at Dagrofa, where I worked with backend development, C# and regression testing tools. This gave me an opportunity to apply my education to real business requirements and develop a stronger understanding of professional software development.
+My professional IT career began at Dagrofa, where I worked with backend development, C# and regression testing tools.
 
-Before entering IT, I worked in several different industries, including food service, landscaping and yard operations. Software development wasn't always my path, but those experiences are part of the journey that brought me here.
+This gave me an opportunity to apply my education to real business requirements and develop a stronger understanding of professional software development.
 
-## A Little About How I Work
+Throughout my professional experience, I have developed an increasing interest in software reliability, troubleshooting, optimization and automated testing.
+
+Before entering IT, I worked in several different industries, including food service, landscaping and yard operations.
+
+Software development wasn't always my path, but those experiences are part of the journey that brought me here.
+
+</details>
+
+---
+
+<details>
+<summary><h2>A Little About How I Work</h2></summary>
 
 I'm naturally curious about how things work.
 
 I enjoy diving into unfamiliar code, following execution flows through a debugger, understanding where data originates and discovering why an implementation behaves the way it does.
 
-I don't expect to know everything, and I'm not afraid to ask questions, consult documentation or seek help when necessary. Knowing how to find, understand and apply information is an important part of being a developer.
+One of the things I enjoy most about development is being able to immerse myself in a problem, explore different approaches and gradually improve a solution.
+
+I don't expect to know everything, and I'm not afraid to ask questions, consult documentation or seek help when necessary.
+
+Knowing how to find, understand and apply information is an important part of being a developer. Learning doesn't stop when a project is completed or when a particular technology becomes familiar.
 
 And, like many developers, Google has been a reliable companion along the way.
+
+</details>
 
 ---
 
