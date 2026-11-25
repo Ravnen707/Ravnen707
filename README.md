@@ -116,6 +116,7 @@ My strongest technical foundation is C# and .NET, with NUnit as my preferred tes
 
 Throughout my education, professional career and personal projects, I have worked with a variety of languages, frameworks, databases and development tools. While my level of experience varies across these technologies, I value the ability to adapt and apply existing knowledge to unfamiliar environments.
 
+<details>
 <summary><h2>My Development Philosophy</h2></summary>
 
 I believe good software is more than software that simply works. It should be understandable, maintainable, testable and capable of evolving alongside its requirements.
