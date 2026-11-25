@@ -11,15 +11,19 @@ I'm particularly interested in the relationship between software development and
 
 ---
 
+
 ## Technical Skills
 
-### Development
+### Core Development
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat-square)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Testing & Software Quality
@@ -27,21 +31,91 @@ I'm particularly interested in the relationship between software development and
 ![NUnit](https://img.shields.io/badge/NUnit-25A162?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 ![xUnit](https://img.shields.io/badge/xUnit-555555?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-555555?style=flat-square)
+![Test Automation](https://img.shields.io/badge/Test_Automation-25A162?style=flat-square)
 
-### Databases & Development Tools
+### Backend & API Development
+
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![Minimal API](https://img.shields.io/badge/Minimal_API-512BD4?style=flat-square)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![WolverineFx](https://img.shields.io/badge/WolverineFx-512BD4?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+### Databases & Data Management
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Development Tools & DevOps
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=flat-square&logo=rider&logoColor=white)
-
-My primary development environment is C# and .NET, with NUnit as my preferred testing framework. I'm currently expanding my experience with Playwright and xUnit.
-
----
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square)
 
 <details>
+<summary><b>Additional Technologies & Experience</b></summary>
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### Frameworks & Libraries
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![DevExtreme](https://img.shields.io/badge/DevExtreme-FF7200?style=flat-square)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square)
+
+### Additional Tools & Cloud Platforms
+
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-4CAF50?style=flat-square)
+
+### AI-Assisted Development
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+
+### Development Methodologies
+
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=flat-square)
+![TDD](https://img.shields.io/badge/Test_Driven_Development-25A162?style=flat-square)
+![XP](https://img.shields.io/badge/Extreme_Programming-555555?style=flat-square)
+
+</details>
+
+My strongest technical foundation is C# and .NET, with NUnit as my preferred testing framework. I am currently expanding my experience with Playwright and xUnit.
+
+Throughout my education, professional career and personal projects, I have worked with a variety of languages, frameworks, databases and development tools. While my level of experience varies across these technologies, I value the ability to adapt and apply existing knowledge to unfamiliar environments.
+
 <summary><h2>My Development Philosophy</h2></summary>
 
 I believe good software is more than software that simply works. It should be understandable, maintainable, testable and capable of evolving alongside its requirements.
